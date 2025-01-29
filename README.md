@@ -42,8 +42,7 @@ python face_recog.py
 ### **5. Quit the Application**
 To stop the program, press **'q'** in the OpenCV window.
 
----
-## **License** 
+--- 
 
 feel free to clone and make changes
 
